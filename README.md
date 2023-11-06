@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi everyone, 👋
+
+I'm studying Applied Artificial Intelligence M.Sc in Germany and I'm looking forward to expanding my knowledge at GitHub.
+My goal is to use AI for sustainability and a good life for all.
+
 
 <!--
 **Positiv-bleiben/Positiv-bleiben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
